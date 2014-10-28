@@ -1,0 +1,108 @@
+.ztagList .tag-item .tag-link{
+     text-decoration: none;
+     color: #ffffff;
+     padding: 5px;
+     border-radius: 5px;
+     font-size: 14px;
+     display: inline-block;
+  position: relative;
+  vertical-align: top;
+}
+.ztagList .tag-item i{
+    position: relative;
+	top: 4px;
+	margin-right: 2px;
+	left: 4px;
+}
+
+.ztagList .tag-item .tag-link:hover{
+       color:#ffffff;
+}
+.ztagList .tag-item{
+        display: inline-block;
+        float: left;
+        margin: 5px;
+		cursor:pointer;
+		height:27px;
+		position:relative;
+}
+.ztagList .select{
+     border-color: #E7E7E7; 
+}
+.ztagList .tag-link span{
+     margin-right: 3px;
+}
+
+.ztagList .tag-item{position:relative;}
+.ztagList .tag-yes{
+   border-radius: 50%;
+   color: #FFFFFF;
+   background-color: #4ae000;
+   display: none;
+   font-size: 12px;
+   height: 16px;
+   line-height: 16px;
+   position: absolute;
+   bottom: -4px;
+   right: -4px;
+   width: 16px;
+   font-weight: bold;
+   text-align: center;
+}
+.ztagList .select .tag-yes{display:inline;}
+
+.ztagcolor0-0 {
+	background-color:#ed6d48;
+}
+.ztagcolor0-1 {
+	background-color:#ffb400;
+}
+.ztagcolor0-2{
+	background-color:#0caed4;
+}
+.ztagcolor0-3 {
+	background-color:#73b748;
+}
+.ztagcolor0-4 {
+	background-color:#f53132;
+}
+.ztagcolor0-5 {
+	background-color:#5867A8;
+}
+
+.ztagcolor1-0 {
+	background-color:#5867A8;
+}
+.ztagcolor1-1 {
+	background-color:#f53132;
+}
+.ztagcolor1-2{
+	background-color:#73b748;
+}
+.ztagcolor1-3 {
+	background-color:#0caed4;
+}
+.ztagcolor1-4 {
+	background-color:#ffb400;
+}
+.ztagcolor1-5 {
+	background-color:#ed6d48;
+}
+.ztag_button{
+       -moz-border-radius: 5px;
+    	-webkit-border-radius: 5px;
+    	border-radius: 5px;
+    	display: inline-block;
+    	color: #FEFEFE;
+    	font-size: 14px;
+    	text-decoration: none;
+		cursor: pointer;
+		width: 110px;
+        text-align: center;
+		background-color: #FF8500;
+		padding: 0;
+		margin-top:5px;
+   }
+.ztag_btn_active{
+	background-color: #21263c;
+}
